@@ -15,12 +15,12 @@ ban = """
 \t                   .` :+;.''+;` ``                    
 \t                      ;'+,:;#;`                       
 \t                     `` `;::,                         
-\t      ArjunA        `:. `..::`         Power Of BOW and ---->                    
+\t      ->ArjunA<-     `:. `..::`     Power Of BOW and Arrow---->                    
 \t                     ,.. ..;: `                       
 \t                     ,,;,.;..`.                       
 \t                     .,,.,. :`,                       
 \t                     `,.,:``.,:                       
-\t                     ..;.```;,    ==>Chennai Hackers Connect<==                  
+\t                     ..;.```;,      ==>Chennai Hackers Connect<==                  
 \t                     ,.,::,;;:                       
 \t                      `., ``.,:.                      
 \t                    ..,,,  `.,  `                     
