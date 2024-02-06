@@ -15,7 +15,7 @@ ban = """
 \t                   .` :+;.''+;` ``                    
 \t                      ;'+,:;#;`                       
 \t                     `` `;::,                         
-\t      ->ArjunA<-     `:. `..::`     Power Of BOW and Arrow---->                    
+\t      ->ArjunA<-     `:. `..::`     Power Of Bow and Arrow---->                    
 \t                     ,.. ..;: `                       
 \t                     ,,;,.;..`.                       
 \t                     .,,.,. :`,                       
