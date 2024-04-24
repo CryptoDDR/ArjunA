@@ -30,7 +30,7 @@ ban = """
 \t         `.,;'````.`.'#``...;':`` `'##+,              
 \t        `,;,`,;+';::,,::;::;';:,``,+#+`               
 \t      .::,.`    .,:'+++''''';;;;;:;;:,`               
-\t        http://chennaihackers.blogspot.com
+\t        
 """
 
 subprocess.call('clear', shell=True)
