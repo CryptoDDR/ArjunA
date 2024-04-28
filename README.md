@@ -1,4 +1,4 @@
-**ArjunA - Man-in-the-Middle Attack Tool**
+# **ArjunA - Man-in-the-Middle Attack Tool**
 
 **Overview** <br>
 This repository contains a simple yet powerful Man-in-the-Middle (MITM) attack tool designed for educational and testing purposes. The tool allows security researchers and enthusiasts to simulate MITM attacks to understand network vulnerabilities and develop effective countermeasures.
@@ -16,7 +16,7 @@ git clone https://github.com/CryptoDDR/ArjunA.git
 
 Navigate to the project directory:
 **bash** <br>
-cd mitm-attack-tool
+cd ArjunA
 
 **Install the required dependencies:** <br>
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 **Run the tool:** <br>
 python ArjunA.py
 
-**Usage** <br>
+**Usage:** <br>
 The Man-in-the-Middle attack tool supports various attack scenarios, including:
 
 **ARP spoofing** <br>
@@ -36,5 +36,5 @@ This tool is intended for educational and testing purposes only. Unauthorized us
 **Contributing:** <br>
 Contributions are welcome! If you encounter any bugs, issues, or have ideas for enhancements, please submit a pull request or open an issue on GitHub.
 
-**License** <br>
+**License:** <br>
 This project is licensed under the NO License model, This may change in future.
