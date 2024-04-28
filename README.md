@@ -12,7 +12,7 @@ To use the tool, follow these steps:
 
 Clone the repository to your local machine:
 bash
-git clone https://github.com/yourusername/mitm-attack-tool.git
+git clone https://github.com/CryptoDDR/ArjunA.git
 
 Navigate to the project directory:
 **bash**
