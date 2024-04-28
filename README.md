@@ -37,4 +37,4 @@ This tool is intended for educational and testing purposes only. Unauthorized us
 Contributions are welcome! If you encounter any bugs, issues, or have ideas for enhancements, please submit a pull request or open an issue on GitHub.
 
 **License:** <br>
-This project is licensed under the NO License model, This may change in future.
+This project is licensed under the No License model.
