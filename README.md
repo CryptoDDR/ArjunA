@@ -31,7 +31,7 @@ python ArjunA.py
 The Man-in-the-Middle attack tool supports various attack scenarios, including:
 
 **ARP spoofing** <br>
-To configure and execute specific attack scenarios, refer to the documentation provided in the docs directory.
+To configure and execute specific attack scenarios, refer to the documentation provided in the help.
 
 **Disclaimer:** <br>
 This tool is intended for educational and testing purposes only. Unauthorized use of this tool is strictly prohibited. The developers of this tool are not responsible for any misuse or damage caused by its use.
