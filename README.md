@@ -11,7 +11,6 @@ Installation
 To use the tool, follow these steps:
 
 Clone the repository to your local machine:
-
 bash
 git clone https://github.com/CryptoDDR/ArjunA.git
 
