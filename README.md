@@ -10,10 +10,10 @@ Customize attack scenarios with flexible configuration options.
 Installation
 To use the tool, follow these steps:
 
-Clone the repository to your local machine:
-bash <br>
+**Clone the repository to your local machine:** <br>
+```sh
 git clone https://github.com/CryptoDDR/ArjunA.git
-
+```
 Navigate to the project directory:
 **bash** <br>
 ```sh
