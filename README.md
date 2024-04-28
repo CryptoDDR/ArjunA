@@ -16,11 +16,14 @@ git clone https://github.com/CryptoDDR/ArjunA.git
 
 Navigate to the project directory:
 **bash** <br>
+```sh
 cd ArjunA
+```
 
 **Install the required dependencies:** <br>
+```sh
 pip install -r requirements.txt
-
+```
 **Run the tool:** <br>
 python ArjunA.py
 
