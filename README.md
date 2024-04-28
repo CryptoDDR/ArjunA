@@ -19,14 +19,14 @@ Navigate to the project directory:
 ```sh
 cd ArjunA
 ```
-
 **Install the required dependencies:** <br>
 ```sh
 pip install -r requirements.txt
 ```
 **Run the tool:** <br>
+```sh
 python ArjunA.py
-
+```
 **Usage:** <br>
 The Man-in-the-Middle attack tool supports various attack scenarios, including:
 
